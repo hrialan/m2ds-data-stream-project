@@ -7,3 +7,4 @@ sklearn
 kafka-python
 yfinance
 statsmodels
+river
