@@ -34,7 +34,19 @@ The project was carried out on Jupyter notebooks to improve the visibility of th
   <img src="Archi_KAFKA_3.PNG" width="400"></img>
   </div>
   
-  
+ --- 
+### Results 
+
+- [BP](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-BP__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+- [Alibaba](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-alibaba__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+- [Amazon](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-amazon__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+- [BNP Paribas](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-bnp_paribas__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+- [Facebook](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-facebook__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+- [Ferrari](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-ferrari__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+- [Gazprom](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-gazprom__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+- [Google](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-google__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+- [Total](https://hrialan.github.io/m2ds-data-stream-project/HTML/3-total__NERIN_PERBET_RIALAN__Datastream_sujet_5__Plot.html)
+
  --- 
 ### Requirements
 
